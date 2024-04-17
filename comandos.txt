@@ -1,0 +1,40 @@
+1. git init: Inicia um repositório Git em um diretório local.
+
+2. git clone [url]: Clona um repositório Git existente para o seu computador.
+
+3. git add [arquivo]: Adiciona um arquivo ao índice (staging area) para ser versionado.
+
+4. git commit -m "[mensagem]": Registra as alterações feitas nos arquivos adicionados ao índice, 
+com uma mensagem explicativa.
+
+5. git status: Mostra o estado atual do repositório, incluindo arquivos modificados, adicionados ou excluídos.
+
+6. git push: Envia os commits locais para um repositório remoto, como o GitHub.
+
+7. git pull: Atualiza o repositório local com as alterações feitas no repositório remoto.
+
+8. git branch: Lista todas as branches locais.
+
+9. git checkout [branch]: Muda para uma branch específica.
+
+10. git merge [branch]: Combina as alterações de uma branch com a branch atual.
+
+11. git remote add [nome] [url]: Adiciona um repositório remoto ao seu repositório local.
+
+12. git remote -v: Lista todos os repositórios remotos associados ao seu repositório local.
+
+13. git log: Mostra o histórico de commits.
+
+14. git reset [commit]: Desfaz alterações até um commit específico.
+
+15. git fetch: Busca todas as branches de um repositório remoto.
+
+16. git tag: Lista, cria ou deleta tags.
+
+17. git blame [arquivo]: Mostra quem alterou cada linha em um arquivo.
+
+18. git stash: Guarda temporariamente as mudanças locais em um stash e limpa o diretório de trabalho.
+
+19. git revert [commit]: Desfaz um commit específico, criando um novo commit que reverte as mudanças.
+
+20. git submodule: Gerencia submódulos Git dentro de um repositório.
